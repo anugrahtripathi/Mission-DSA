@@ -59,7 +59,7 @@ Since all solutions are written in Python, you can easily run them using your lo
 This is a personal repository to track my DSA progress, but if you have an optimized approach or find a bug in any of the solutions, feel free to open a **Pull Request** or an **Issue**!
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/OptimizedSolution`)
-3. 
+3. Commit your Changes (`git commit -m 'Add optimized solution for Trapping Rain Water'`)
 4. Push to the Branch (`git push origin feature/OptimizedSolution`)
 5. Open a Pull Request
 ---
